@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "551710253071",
+    "project_id": "give-india-d08ad",
+    "storage_bucket": "give-india-d08ad.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:551710253071:android:56e137d3f0ec89f805437a",
+        "android_client_info": {
+          "package_name": "com.example.giveindia"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "551710253071-pggpglmekj6p5qkieaef9ldavo9v6smu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.giveindia",
+            "certificate_hash": "acd5a33a87f38555e9b1e586abd194a43bf39afe"
+          }
+        },
+        {
+          "client_id": "551710253071-jd4cp8pki17grqs2a41d1290o4lqkb63.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDKJDlY7D7Gr7_dhY09AG3DTQpaG3cDngA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "551710253071-jd4cp8pki17grqs2a41d1290o4lqkb63.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
